@@ -1,0 +1,28 @@
+_repo: The-Revelation-Explained--13-An-Exposition-Text-by-Text-of-the-Apocalypse-of-St.-John_13229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, F. G. (Frederick George)
+    alias: Smith, Frederick George
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5000'
+    url: http://www.gutenberg.org/2009/agents/5000
+description: ''
+gutenberg_issued: '2004-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Revelation -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+title: "The Revelation Explained\r\nAn Exposition, Text by Text, of the Apocalypse\
+  \ of St. John"
+url: http://www.gutenberg.org/ebooks/13229
