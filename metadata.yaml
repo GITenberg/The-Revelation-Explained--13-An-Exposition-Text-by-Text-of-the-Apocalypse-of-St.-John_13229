@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5000'
     url: http://www.gutenberg.org/2009/agents/5000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13229#The-Revelation-Explained--13-An-Exposition-Text-by-Text-of-the-Apocalypse-of-St.-John
 gutenberg_issued: '2004-08-20'
 gutenberg_type: Text
 identifiers:
